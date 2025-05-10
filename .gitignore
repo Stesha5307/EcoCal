@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+  __pycache__/
+  *.py[cod]
+  *$py.class
+  *.so
+  .Python
+  build/
+  dist/
+  eggs/
+  *.egg-info/
+  .installed.cfg
+  *.egg
+  MANIFEST
+  pip-log.txt
+  htmlcov/
+  .coverage
+  .cache
+  *.cover
+  .hypothesis/
+  .pytest_cache/
+  *.log
+  instance/
+  .env
+  .venv
+  env/
+  venv/
+  ENV/
+  .mypy_cache/
+  .pyre/
+  
